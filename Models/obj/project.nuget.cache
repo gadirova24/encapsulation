@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ep4M871+RfCxlANvUYpzA38F/vis/34LPYLJDnG5HyScU8Ui8MICKWgJU6K/dB+8cKWT871cKEdmHF2BqhMPTw==",
+  "success": true,
+  "projectFilePath": "/Users/nigar/Desktop/Encapsulation/Models/Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/nigar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/nigar/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
